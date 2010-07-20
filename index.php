@@ -84,8 +84,18 @@ $(function() {
   $('section.river').children().hide()
      .filter('h4')
        .show()
-       .click(function(){
-          $(this).siblings().show();
+       .each(function() {
+          if ($(this).siblings().length>0) {
+            $(this).wrapInner('<a href=# />')
+                 .click(function(){
+                    var $this = $(this);
+                    $this.siblings().show();
+                    var txt = $this.children('a').text();
+                    $this.children('a').remove();
+                    $this.text(txt);
+                    return false;
+                  });
+          }
         });
 });
 </script>
