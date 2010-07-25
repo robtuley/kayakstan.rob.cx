@@ -114,7 +114,7 @@ $(function() {
 
 <h2>South of Bishkek</h2>
 
-<p>The rivers flowing towards Bishkek are low volume and seem to go at different times of year, The Ala-Archa would probably be great earlier in the season with more water, whereas the Ala-Medin was ideal mid-August. Driving up the Kara-Balta to the pass we would guess that much more water would be required to make this run. The East and West Karakol rivers which flow south from the same mountains appeared to be too low at this time of year and would require more water, the Kerkermeren however was at an ideal level, and would go with both more (scary) and less water. The Chong-Kemin lies to the east of Biskek, running almost parallel with the border with Kazakhstan.</p>
+<p>The rivers flowing towards Bishkek are low volume and seem to go at different times of year. The Ala-Archa would probably be great earlier in the season with more water, whereas the Ala-Medin was ideal mid-August. Driving up the Kara-Balta to the pass we would guess that much more water would be required to make this run. The East and West Karakol rivers which flow south from the same mountains appeared to be too low at this time of year, however the Kerkermeren was at an ideal level, and would go with both more (scary) and less water. The Chong-Kemin lies to the east of Biskek, running almost parallel with the border with Kazakhstan.</p>
 
 <section id=ala-archa class=river>
 <h3>Ala Archa (above border post), Gd3/4</h3>
