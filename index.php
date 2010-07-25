@@ -33,25 +33,25 @@
 <h1>Kayaking in Kyrgyzstan</h1>
 
 <div class=columned>
-<p>These notes are a result of the British University Kayak Expedition (BUKE) to Kyrgyzstan in the summer of 2005. We hope you find them useful.</p>
+<p>These notes are a result of the British University Kayak Expedition (BUKE) to Kyrgyzstan in the summer of 2005.</p>
 
 <h2>When to go</h2>
-<p>July and August are the hottest months, and due to the glacier coverage they are also the time of year when rivers are at their highest. Depending on what sort of levels you want, the paddling season runs from late June (very high) to mid-September (dropping off). We visited the country in the later portion of this season (mid-August to mid-September), and although doubtless we were able to paddle some rivers which would have been too high if we'd gone earlier, we concluded that going a month earlier would have yielded better paddling.</p>
+<p>July and August are the hottest months, and due to the glacier coverage they are also the time of year when rivers are at their highest. Depending on what water levels you want, the paddling season runs from late June (very high) to mid-September (dropping off). We visited in the later portion of this season (mid-August to mid-September), and although doubtless we were able to paddle some rivers which would have been too high if we'd gone earlier, we concluded that going a month earlier would have yielded better paddling.</p>
 
 <h2>How to get there</h2>
-<p>It is possible to fly into either Bishkek (Kyrgyz capital) or Almaty (actually in Kazakstan, but very close to the border), and BA fly direct to both from London Heathrow. A cheaper option is to fly via Moscow, with Aeroflot being the major carrier on this route.</p>
+<p>It is possible to fly into either Bishkek (Kyrgyz capital) or Almaty (in Kazakstan, but very close to the border), and BA fly direct to both from London Heathrow. A cheaper option is to fly via Moscow, with Aeroflot being the major carrier on this route.</p>
 
 <h2>Travelling around</h2>
-<p>We didn't experiment with local public transport, but I think it would be a real struggle. Couple that with the fact that most rivers are in very sparsely populated areas and I think it would be virtually impossible. Most of the Russians who paddle this region drive a car down themselves. If you're flying in, it's probably best to hire a vehicle and a driver. For a small group, a 4x4 (usually a Lada Niva) would be ideal, we went of bit OTT and hired 2 monster trucks from <a href=http://www.karakol.kg>Turkestan</a>.</p>
+<p>We didn't experiment with local public transport, but I think it would be a real struggle. Couple that with the fact that most rivers are in very sparsely populated areas and I think it would be virtually impossible. Most of the Russians who paddle this region drive a car down themselves. If you're flying in, it's probably best to hire a vehicle and a driver. For a small group, a 4x4 (usually a Lada Niva) would be ideal, we went a bit OTT and hired 2 monster trucks from <a href=http://www.karakol.kg>Turkestan</a>.</p>
 
 <h2>Language</h2>
-<p>The local language is Kyrgyz which is very close to Russian. We hired a Russian-English interpreter, and for a large group such as ours he was worth his weight in gold. It is worth remembering that if you hire a driver, they will often be Russian, and communication may be a problem. For buying food/etc. our interpreter was useful, but not essential. Don't, whatever you do, think that anyone local will speak English. They won't.</p>
+<p>The local language is Kyrgyz which is very similar to Russian. We hired a Russian-English interpreter, and for a large group such as ours he was worth his weight in gold. It is worth remembering that if you hire a driver, they will often be Russian, and communication may be a problem. For buying food/etc our interpreter was useful, but not essential. Don't expect anyone local to speak English, they won't.</p>
 
 <h2>Weather</h2>
-<p>Is reasonably mild. The paddling season is the Kyrgyz summer, so during the day the sun's generally shining (although expect some rain), and temperature pleasant. You will need to pack warm gear, and a good snug sleeping bag - many river locations are at a high altitude, and you will probably spend most time between 1500-3000m altitude... during the night it will often drop below freezing.</p>
+<p>Is reasonably mild. The paddling season is the Kyrgyz summer, so during the day the sun's generally shining (although expect some rain), and temperature pleasant. You will need to pack warm gear, and a good snug sleeping bag. Many rivers are at high altitude, and you will probably spend most time between 1500-3000m altitude: during the night it will often drop below freezing.</p>
 
 <h2>Accommodation</h2>
-<p>We camped out the back of the trucks for most of the trip, and I recommend you at least take camping gear. In the larger centres there are plenty of hostels, which make for a nice change however.</p>
+<p>We camped out the back of the trucks for most of the trip, and I recommend you at least take camping gear. In the larger centres there are plenty of hostels, which make for a nice change.</p>
 
 <h2>Money</h2>
 <p>Although there are ATM machines in Bishkek (which take both Visa and Maestro), you'll rarelly find them outside major cities. Travellers cheques are a real no-go too - you will only be able to change them at the banks in Bishkek, and they charge an 'admin' commission. Dollars cash is probably your best bet - there are currency exchange booths all over the place. Large denomination notes will get the best exchange rates, and make sure your notes are printed recently and in good condition - they wouldn't accept notes older than 1994 when we were there, and certainly not torn or marked notes.</p>
@@ -60,7 +60,7 @@
 <p>If you are a UK national, you need a visa to visit Kyrgyzstan. There is a <a href=http://www.kyrgyz-embassy.org.uk>Kyrgyz Embassy</a> in the UK in London at which a visa can be obtained in advance. It is not imperative that you get the visa before you go - the same visa is available when you arrive at Manas Bishkek airport. If you are flying into Almaty, you will also need a <a href=http://kazakhstanembassy.org.uk>Kazahstan visa</a>.</p>
 
 <h2>Phone/Internet</h2>
-<p>Standard mobile phones will work in some areas, connecting into the local <a href=http://www.bitel.kg>Bitel</a> network. Internet cafes are widely available in the larger towns, and shared dialup (very slow) connections can often be found in smaller towns too.</p>
+<p>Standard mobile phones will work in some areas, connecting into the local <a href=http://www.bitel.kg>Bitel</a> network. Internet cafes are widely available in the larger towns, and shared dialup (very slow) connections can often be found in smaller towns.</p>
 
 <h2>Maps</h2>
 <p>There is an excellent map 'shop' in Bishkek itself, which you should be able to find by asking around once you get there. This sells 1:200,000 topographical maps to the entire country, with 80m contour lines, and are probably the easiest maps to work with on a day-to-day basis.</p>
