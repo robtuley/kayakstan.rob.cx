@@ -82,7 +82,7 @@
 </article>
 
 <article>
-<h1>Rivers of Kyrgzstan</h1>
+<h1>Rivers of Kyrgzstan (<a href=maps.zip>maps, 18Mb zip</a>)</h1>
 <script>
 $(function() {
   $('section.river')
@@ -110,7 +110,7 @@ $(function() {
 </script>
 
 <div class=columned>
-<p>The size of rivers vary greatly in Kyrgyzstan, from steep low volume creeks to medium-big volume whitewater. These notes result from a trip between the 20th August to the 20th September. As a result most of the rivers were running at medium/low levels. Earlier in the summer (June/July) we believe the levels would be much higher.</p>
+<p>The size of rivers vary greatly in Kyrgyzstan, from steep low volume creeks to medium-big volume whitewater. These notes result from a trip between the 20th August to the 20th September. As a result most of the rivers were running at medium/low levels. Earlier in the summer (June/July) we believe the levels would be much higher. In addition to the notes below, <a href=maps.zip>you can download a set of maps (18Mb zip)</a> to work out where all the rivers referred to actually are.</p>
 
 <h2>South of Bishkek</h2>
 
