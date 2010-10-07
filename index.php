@@ -72,9 +72,7 @@
 <h2>Resources</h2>
 <p>Some other sources of information are:</p>
 <ul>
-<li>The main <a href=http://www.kayaking.ru/en/rivers/tienshan>Russian kayaking site has good guides to the area (in English)</a>. These were published just after we got back from our trip.</li>
-<li>The site <a href=http://www.whitewater.ru>www.whitewater.ru</a> has loads of info, but all in Russian. For example, if you'd like to <a href=http://www.whitewater.ru/tourism/Rivers/MiddleAsya/Saryjaz/Sary99.htm>scare yourself on the Sary-Jaz</a>...</li>
-<li>A previous <a href=http://kyrgyzkayak.co.uk>UK trip to the country</a> ended with a shoulder dislocation after two weeks.</li>
+<li>The main <a href=http://www.kayaking.su/en/rivers/tienshan>Russian kayaking site has good guides to the area (in English)</a>. These were published just after we got back from our trip.</li>
 <li>The <a href=http://www.tetongravity.com>TGR team</a> were out there about the same time (July 2003), and some footage of Kyrgyzstan appears in their '<a href=http://www.arris.biz>One World</a>' DVD release. When we got in touch, they said the Naryn Gorge is an excellent big volume multiday trip, and its tributaries (the Big and Little Naryn) also harbour some excellent whitewater. We agree.</li>
 <li>Vladimir Gavrilov has written a good rafting orientated guidebook (in English) to the rivers of central Asia, entitled 'Rivers of an Unknown Land'. This includes some larger volume runs in Kyrgzstan (e.g. Naryn). The book is available from <a href=http://www.canotier.com>Canotier</a>.</li>
 </ul>
