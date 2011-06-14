@@ -1,4 +1,3 @@
-<?php header('Content-Type:text/html; charset=utf-8'); ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -297,12 +296,12 @@ switchbacks. Takeout as far downstream as you can drive. A nice easy section, me
 </section>
 
 <h2>Further South</h2>
-<p>We didn't explore any further south than Naryn, but there are rumours of sweet granite slides around Osh. The southern area of Kyrgyzstan is less stable than the north, mostly because you're much closer to the borders with the other 'stans so it will worth checking up on the current FCO advice before planning to travel there. If anyone has any info on this area, I would be interested to hear it so please <a href=http://openknot.com/me>get in touch</a>.</p>
+<p>We didn't explore any further south than Naryn, but there are rumours of sweet granite slides around Osh. The southern area of Kyrgyzstan is less stable than the north, mostly because you're much closer to the borders with the other 'stans so it will worth checking up on the current FCO advice before planning to travel there. If anyone has any info on this area, I would be interested to hear it so please <a href=http://blog.rob.cx>get in touch</a>.</p>
 </div>
 </article>
 
 <footer>
-    <p class=copy><small>© 2010 <a href=http://openknot.com/me>Rob Tuley</a></small></p>
+    <p class=copy><small>&copy 2011 <a href=http://blog.rob.cx>Rob Tuley</a></small></p>
 </footer>
 
 </body>
